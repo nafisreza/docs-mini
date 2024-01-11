@@ -4,7 +4,7 @@ function Background() {
   return (
       <div className="w-full h-screen z-[2]">
         <div className="absolute top-[5%] w-full py-5 flex justify-center text-lg text-zinc-400">
-          Documents
+          
         </div>
 
         <h1 className="absolute top-1/2 left-1/2 -translate-x-[50%] -translate-y-[50%] text-[10rem] leading-none tracking-tighter text-zinc-900">
